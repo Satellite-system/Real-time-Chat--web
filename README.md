@@ -8,3 +8,5 @@ This is a web page designed to be used as a chat site.
  In this Project Socket io, a JavaScript library is used for realtime web applications. 
  It enables realtime, bi-directional communication between web client and server. 
  It has two parts: a client-side library that runs in the browser, and a server-side library for Node.js. 
+ 
+ https://socket.io/images/dependencies.jpg
