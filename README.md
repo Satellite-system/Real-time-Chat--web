@@ -9,4 +9,4 @@ This is a web page designed to be used as a chat site.
  It enables realtime, bi-directional communication between web client and server. 
  It has two parts: a client-side library that runs in the browser, and a server-side library for Node.js. 
  
- https://socket.io/images/dependencies.jpg
+![dependencies](https://user-images.githubusercontent.com/67074308/151172135-7f25b867-29c6-49ff-aa40-cf5848017274.jpg)
