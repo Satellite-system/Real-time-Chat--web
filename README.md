@@ -1,0 +1,7 @@
+# Real-time-Chat--web
+This is a web page designed to be used as a chat site.
+ In the above Page Node js is used for Server Building as a backend.
+ For Front-end Designing HTML,CSS and JavaScript is Used.
+ In this Project Socket io, a JavaScript library is used for realtime web applications. 
+ It enables realtime, bi-directional communication between web client and server. 
+ It has two parts: a client-side library that runs in the browser, and a server-side library for Node.js. 
